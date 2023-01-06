@@ -1,6 +1,6 @@
 # merge-together
 Ayda
-thinks
+believes
 choclate
 is not the
 best flavor
